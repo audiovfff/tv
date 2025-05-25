@@ -14,4 +14,5 @@
 2.再安装TV-signed.apk 即可
 
 下载版本 电视版： https://github.com/audiovfff/tv/releases/download/v1.0/com.audiovif.tv.apk
+
 下载版本 电视版驱动 ：https://github.com/audiovfff/tv/releases/download/v1.0/TV-signed.apk
